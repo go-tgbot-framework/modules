@@ -1,0 +1,3 @@
+[submodule "TGBotLib"]
+	path = TGBotLib
+	url = https://github.com/go-tgbot-framework/TGBotLib
